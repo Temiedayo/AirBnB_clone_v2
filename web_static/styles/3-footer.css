@@ -1,0 +1,10 @@
+footer {
+	position: fixed;
+	bottom: 0;
+	background-color: white;
+	height: 61px;
+	width: 100%;
+	text-align: center;
+	line-height: 31px;
+	border-top: 1.5px solid #CCCCCC;
+}
